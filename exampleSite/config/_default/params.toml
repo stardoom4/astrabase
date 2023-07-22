@@ -1,6 +1,6 @@
 # website title
 # 网站标题
-title = "Hugo DoIt Theme Documentation"
+title = "SpaceMan "
 # DoIt theme version
 # DoIt 主题版本
 version = "0.3.X"
@@ -50,7 +50,7 @@ cacheRemoteImages = false
     logo = "https://hugodoit.pages.dev/images/avatar.webp"
     # title name
     # 标题名称
-    name = "DoIt"
+    name = "SpaceMan"
     # you can add extra information before the name (HTML format is supported), such as icons
     # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
     # pre = "<i class='far fa-edit fa-fw'></i>"
